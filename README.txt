@@ -1,1 +1,1 @@
-Fichier readme
+Une ebauche de site en construction avec un petit peu ( mais vraiment un petit peu ) de CSS et d'HTML.
